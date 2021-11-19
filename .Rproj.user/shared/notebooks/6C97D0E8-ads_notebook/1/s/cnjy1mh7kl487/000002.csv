@@ -1,0 +1,15 @@
+"0","# Variance
+apply(numeric_ads, 2, var)
+"
+"1","Daily.Time.Spent.on.Site "
+"1","                     Age "
+"1","             Area.Income "
+"1","    Daily.Internet.Usage "
+"1","
+"
+"1","            2.528609e+02 "
+"1","            7.745379e+01 "
+"1","            1.691376e+08 "
+"1","            1.938785e+03 "
+"1","
+"

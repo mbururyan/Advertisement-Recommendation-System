@@ -1,0 +1,4 @@
+"0","# get the mean for numeric data"
+"0",""
+"0","numeric_ads <- select(new_ads, Daily.Time.Spent.on.Site, Age, Area.Income,Daily.Internet.Usage)"
+"0","numeric_ads"

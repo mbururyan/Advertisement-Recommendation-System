@@ -1,0 +1,15 @@
+"0","# Standard deviation
+apply(numeric_ads, 2, sd)
+"
+"1","Daily.Time.Spent.on.Site "
+"1","                     Age "
+"1","             Area.Income "
+"1","    Daily.Internet.Usage "
+"1","
+"
+"1","               15.901600 "
+"1","                8.800784 "
+"1","            13005.290554 "
+"1","               44.031632 "
+"1","
+"

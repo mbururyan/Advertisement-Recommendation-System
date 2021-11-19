@@ -1,0 +1,15 @@
+"0","# Minimum values
+apply(numeric_ads, 2, min)
+"
+"1","Daily.Time.Spent.on.Site "
+"1","                     Age "
+"1","             Area.Income "
+"1","    Daily.Internet.Usage "
+"1","
+"
+"1","                   32.60 "
+"1","                   19.00 "
+"1","                19345.36 "
+"1","                  104.78 "
+"1","
+"

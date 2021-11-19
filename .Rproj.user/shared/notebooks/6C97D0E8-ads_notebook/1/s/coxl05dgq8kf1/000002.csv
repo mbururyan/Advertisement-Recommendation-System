@@ -1,0 +1,2 @@
+"0","# scatterplot"
+"0","plot((numeric_ads$Daily.Internet.Usage), (numeric_ads$Age), xlab = 'Time spent', ylab = 'Age')"

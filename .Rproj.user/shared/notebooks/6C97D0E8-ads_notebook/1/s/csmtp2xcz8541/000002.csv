@@ -1,0 +1,15 @@
+"0","# Median
+apply(numeric_ads, 2, median)
+"
+"1","Daily.Time.Spent.on.Site "
+"1","                     Age "
+"1","             Area.Income "
+"1","    Daily.Internet.Usage "
+"1","
+"
+"1","                  68.390 "
+"1","                  35.000 "
+"1","               57228.185 "
+"1","                 183.425 "
+"1","
+"

@@ -1,0 +1,15 @@
+"0","# Maximum values
+apply(numeric_ads, 2, max)
+"
+"1","Daily.Time.Spent.on.Site "
+"1","                     Age "
+"1","             Area.Income "
+"1","    Daily.Internet.Usage "
+"1","
+"
+"1","                   91.43 "
+"1","                   61.00 "
+"1","                79484.80 "
+"1","                  269.96 "
+"1","
+"

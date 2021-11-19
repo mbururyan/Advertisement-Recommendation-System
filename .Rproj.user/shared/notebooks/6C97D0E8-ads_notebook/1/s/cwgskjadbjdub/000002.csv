@@ -1,0 +1,15 @@
+"0","# Mean for all numeric data
+apply(numeric_ads, 2, mean)
+"
+"1","Daily.Time.Spent.on.Site "
+"1","                     Age "
+"1","             Area.Income "
+"1","    Daily.Internet.Usage "
+"1","
+"
+"1","                65.03979 "
+"1","                35.98286 "
+"1","             55312.80720 "
+"1","               179.98504 "
+"1","
+"
